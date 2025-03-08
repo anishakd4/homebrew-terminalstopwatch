@@ -7,6 +7,6 @@ class Mytool < Formula
   version "1.0.0"
 
   def install
-    bin.install "mytool.sh" => "mytool"
+    bin.install "anish.sh" => "terminalstopwatch"
   end
 end
