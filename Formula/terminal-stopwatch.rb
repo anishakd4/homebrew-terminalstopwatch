@@ -1,5 +1,5 @@
 
-class TerminalStopwatch < Formula
+class Terminalstopwatch < Formula
   desc "A simple shell script to run stopwatch in terminal"
   homepage "https://github.com/anishakd4/terminalstopwatch"
   url "https://github.com/anishakd4/terminalstopwatch/releases/download/v1.0.0/anish.sh" # Update URL
